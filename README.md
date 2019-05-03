@@ -13,6 +13,7 @@ Se utiliza DDD con arquitectura hexagonal y CQRS para la ejecución de casos de 
             - MySQLProductRepository (configurar MySQL)
     - Archivo Init.java
         - Descomentar las líneas en la función init() para crear los productos (recomendable para repositorio en memorio o primera ejecución en MySQL)
+        - Ejecutar archivo
 
 ## Resumen
 ### DDD
